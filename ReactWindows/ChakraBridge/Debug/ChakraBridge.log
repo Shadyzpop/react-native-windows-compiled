@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  asprintf.cpp
+  ChakraHost.cpp
+  JsIndexedModulesUnbundle.cpp
+  JsModulesUnbundle.cpp
+  JsStringify.cpp
+  NativeJavaScriptExecutor.cpp
+     Creating library E:\Projects\TypeActress\RNTypactress\windows\Debug\ChakraBridge\ChakraBridge.lib and object E:\Projects\TypeActress\RNTypactress\windows\Debug\ChakraBridge\ChakraBridge.exp
+  ChakraBridge.vcxproj -> E:\Projects\TypeActress\RNTypactress\windows\Debug\ChakraBridge\ChakraBridge.dll
